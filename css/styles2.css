@@ -1,0 +1,24 @@
+.page-heading {
+  font-weight: 700;
+  font-size: 44px;
+  margin-bottom: 25px;
+}
+
+.page-body {
+  font-size: 20px;
+  line-height: 1.6;
+  max-width: 900px;
+  margin-bottom: 30px;
+}
+
+.info-block {
+  font-size: 18px;
+  line-height: 1.8;
+  max-width: 900px;
+}
+
+@media (max-width: 768px) {
+  .page-heading {
+    font-size: 30px;
+  }
+}

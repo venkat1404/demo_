@@ -1,0 +1,24 @@
+.page-heading {
+  font-weight: 700;
+  font-size: 44px;
+  margin-bottom: 20px;
+}
+
+.page-subtitle {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.contact-block {
+  margin-bottom: 25px;
+}
+
+.contact-block h5 {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.contact-block a {
+  color: var(--accent, #a8ff35);
+  text-decoration: underline;
+}
